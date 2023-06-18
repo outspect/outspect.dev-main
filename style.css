@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+.big-red-text {
+  font-size: 24px;
+  color: red;
+}
+
 body {
   background-color: #111;
   color: #fff;
